@@ -9,5 +9,7 @@ public interface Icalculator {
 	void division(int a, int b);
 	
 	void multiplication(int a, int b);
+	
+	void EqualorNot(int a, int b);
 
 }
