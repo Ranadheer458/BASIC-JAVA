@@ -29,4 +29,13 @@ public class basic implements Icalculator  {
 		int res = a*b;
 		System.out.println("multiplication: "+res);
 	}
+
+	@Override
+	public void EqualorNot(int a, int b) {
+		// TODO Auto-generated method stub
+		
+	boolean res = a==b;
+	System.out.println("given values are: "+res);
+		
+	}
 }

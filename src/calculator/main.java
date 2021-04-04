@@ -13,8 +13,7 @@ public class main {
 		sc1.division(a, b);
 		sc1.multiplication(a, b);
 		sc1.modulus(a, b);
-		
-		
+		sc1.EqualorNot(a, b);	
 	}
 
 }
